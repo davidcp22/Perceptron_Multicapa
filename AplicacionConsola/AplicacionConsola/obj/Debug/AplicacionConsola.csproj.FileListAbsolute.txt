@@ -1,0 +1,7 @@
+C:\Users\david.castanop\source\repos\AplicacionConsola\AplicacionConsola\bin\Debug\AplicacionConsola.exe.config
+C:\Users\david.castanop\source\repos\AplicacionConsola\AplicacionConsola\bin\Debug\AplicacionConsola.exe
+C:\Users\david.castanop\source\repos\AplicacionConsola\AplicacionConsola\bin\Debug\AplicacionConsola.pdb
+C:\Users\david.castanop\source\repos\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.csprojAssemblyReference.cache
+C:\Users\david.castanop\source\repos\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\david.castanop\source\repos\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.exe
+C:\Users\david.castanop\source\repos\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.pdb
